@@ -1,8 +1,6 @@
 import styles from "./Search.module.css"
 
 const Search = (props) =>{
-
-
    return (
     <>
       <div className={styles.search_con}>
