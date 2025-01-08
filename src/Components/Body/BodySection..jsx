@@ -1,4 +1,4 @@
-import Card from "../Card/Card";
+import Card from "../Card/CardSection";
 import styles from "./Body.module.css"
 
 const Body = (props) =>{
